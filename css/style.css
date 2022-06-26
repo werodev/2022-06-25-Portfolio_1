@@ -7,6 +7,7 @@ body {
     border-radius: 1em;
     overflow: hidden;
     box-shadow: 10px 10px 5px lightgray;
+    transition: all 2s;
 }
 
 .card:hover {
@@ -54,6 +55,7 @@ p {
     border-style: none;
     font-family: brandon-grotesque, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: 400;
+    transition: all 2s;
 }
 
 .btn:hover {
