@@ -7,7 +7,7 @@ body {
     border-radius: 1em;
     overflow: hidden;
     box-shadow: 10px 10px 5px lightgray;
-    transition: all 2ms;
+    transition: all 5ms;
 }
 
 .card:hover {
